@@ -22,3 +22,5 @@ run this command in your terminal
 cd Amdox pjt 
 # then run this command
 streamlit run app.py
+#OR
+stremlit run "your_amdox_pjt_path\app.py"
